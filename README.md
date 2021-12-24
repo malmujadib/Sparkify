@@ -16,11 +16,7 @@ This project is the analysis of a dataset that contains user logs for a music st
 
 ### Results:
 
-After running the best model on the validation data, we managed to achieve an accuracy of 79.2%. This results is quite good, based on the small size of our dataset,
-and the relative small portion of churn users in the dataset. That latter point is also the reason why we optimised the model on the F1 metric, as otherwise a dumb
-model which would only output zero as a prediction would still be able to get a high accuracy even though it would not generate any real positive, but would 
-generate a lot of false negatives instead. In theory this dumb classifier would get a 77.3% on the validation set. The successful model is the Multilayer Perceptron 
-classifier. 
+After running the best model on the validation data, we managed to achieve an accuracy of 77.3%. This results is quite good, based on the small size of our dataset, and the relative small portion of churn users in the dataset. That latter point is also the reason why we optimised the model on the F1 metric, as otherwise a dumb model which would only output zero as a prediction would still be able to get a high accuracy even though it would not generate any real positive, but would generate a lot of false negatives instead.The validation set : 41 non-churn users, 53 total number of users.The successful model is the Multilayer Perceptron classifier.
 
 
 ### Acknowledgements:
