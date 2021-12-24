@@ -3,8 +3,7 @@
 
 ### Introduction:
 
-This project is the analysis of a dataset that contains user logs for a music streaming service called Sparkify, its similar to Spotify & Pandora.The Sparkify
-music service looks to identify the population of users that churn (they can be users from the free service, or the paid service). Once the possible criteria for churn are better undestood, our objective is to build a model and predict the users churn so that some specific attention can be given to the users 
+This project is the analysis of a dataset that contains user logs for a music streaming service called Sparkify which emulates a real streaming service like Spotify & Pandora.The Sparkify music services looks to identify the population of users that churn (they can be users from the free service, or the paid service). Once the possible criteria for churn are better undestood, our objective is to build a model and predict the users churn so that some specific attention can be given to the users 
 and try to retain them on the platform.
 
 
