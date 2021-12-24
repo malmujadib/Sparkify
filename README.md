@@ -28,4 +28,4 @@ classifier.
 
 ### Acknowledgements:
 
-I would like to thank Udacity for the great dataset
+I would like to thank  Udacity for the unique big data experience.
