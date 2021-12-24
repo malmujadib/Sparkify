@@ -22,8 +22,6 @@ model which would only output zero as a prediction would still be able to get a 
 generate a lot of false negatives instead. In theory this dumb classifier would get a 77.3% on the validation set. The successful model is the Multilayer Perceptron 
 classifier. 
 
-- My Blog here
-
 
 ### Acknowledgements:
 
